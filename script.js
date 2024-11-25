@@ -1,4 +1,4 @@
-﻿function calculate() {
+function calculate() {
     const charge = parseFloat(document.getElementById("charge").value);
     const testType = document.getElementById("testType").value;
     let result = "";
